@@ -1,5 +1,5 @@
-# 🌴 OASIS – A Post-Contemporary Village Website  
-*First created August 2022 by Brendan & Yogini*
+# 🌴 OASIS – A Post-Contemporary Village  
+*Created August 2022 by Brendan & Yogini*
 
 > “The future of everything, for everyone.”
 
@@ -8,5 +8,5 @@ It imagines a sustainable, community-first living model for workers and modern n
 
 ---
 
-## 📸 Preview
+## Preview
 https://yogiborg.github.io/Oasis/
