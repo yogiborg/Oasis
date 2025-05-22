@@ -1,0 +1,64 @@
+body {
+    background-color: #f6f6f6;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    margin-left: 26%;
+    margin-right: 30%;
+    color: #161616;
+}
+
+.dark-mode {
+    background-color: #161616;
+    color: #f6f6f6;
+}
+
+.light-mode {
+    background-color: #f6f6f6;
+    color: #161616;
+}
+
+#palmTitle {
+    height: 10vw;
+    width: auto;
+    padding-top: 6vw; 
+    margin-left: -.3vw;
+    transition: opacity .25s ease;
+}
+
+.pinkOne {
+    color: #db14db;
+}
+
+.pinkTwo {
+    color: #ff00ff;
+}
+
+.sub {
+    font-size: 1.8vw;
+}
+
+.subTwo {
+    font-size: 1.2vw;
+}
+
+.text {
+    font-size: 1vw;
+    line-height: 1.25vw;
+}
+
+.header {
+    font-weight: 700;
+}
+
+ul.a {
+    list-style-type: "-";
+    list-style-position: outside;
+    margin-left: -2.3vw;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 5vw;
+    letter-spacing: -.2vw;
+}
